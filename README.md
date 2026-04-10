@@ -1,7 +1,15 @@
-# Dorukan
+# Dorukan Akat
+Computer Engineering student @ Politecnico di Torino
 
-Computer engineering student.  
-Low-level systems, C, embedded, learning by building.
+Building up from the metal. Bare-metal firmware, memory architecture and hardware-software co-design on ARM Cortex-M.
+
+Currently working through: memory control &rarr; concurrency &rarr; cache behavior &rarr; preipherals
+
+**Interests**: Ultra-low power embedded systems, device and data ownership, open hardware
+
+**Hardware**: STM32F4
+
+**Languages**: C   &bull;   Rust(Learning)   &bull;   Assembly
 
 ![Stats](https://ghstats.vercel.app/api?username=doruk-d&show_icons=true&theme=tokyonight)
 
