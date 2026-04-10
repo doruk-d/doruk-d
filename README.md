@@ -3,7 +3,7 @@ Computer Engineering student @ Politecnico di Torino
 
 Building up from the metal. Bare-metal firmware, memory architecture and hardware-software co-design on ARM Cortex-M.
 
-Currently working through: memory control &rarr; concurrency &rarr; cache behavior &rarr; preipherals
+Currently working through: memory control &rarr; concurrency &rarr; cache behavior &rarr; peripherals
 
 **Interests**: Ultra-low power embedded systems, device and data ownership, open hardware
 
