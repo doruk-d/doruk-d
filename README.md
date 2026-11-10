@@ -9,10 +9,6 @@ Building up from the metal. Bare-metal firmware, memory architecture and hardwar
 
 **Hardware**: STM32F4
 
-**Languages**: C   &bull;   Rust(Learning)   &bull;   Assembly
+**Languages**: C   &bull;   CPP(Learning)   &bull;   Assembly
 
 **Long-term direction**: embedded firmware → FPGA engineering → digital chip architecture.
-
-![Stats](https://ghstats.vercel.app/api?username=doruk-d&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://ghstats.vercel.app/api/top-langs/?username=doruk-d&layout=compact&theme=tokyonight)
